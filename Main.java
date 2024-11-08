@@ -13,7 +13,7 @@ class Main
         ArrayList<Passenger> p = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
         while(true)
-        {
+        {   System.out.println("Welcome to Railway Booking.... ");
             System.out.println("1. Book ticket");
             System.out.println("2. Cancel ticket");
             System.out.println("3. View confirmed ticket list");
